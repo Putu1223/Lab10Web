@@ -1,7 +1,7 @@
 # Praktikum 9 - PHP Modular - Pemrograman Web
 ```
-Veno Setyoaji Wiratama
-311910363
+I Putu Suwarjaya Atmaja
+311910567
 TI.19.A.2
 Universitas Pelita Bangsa
 ```
@@ -493,17 +493,3 @@ table tr:nth-child(even) {
     padding: 5px;
 }
 ```
-![TUGAS 9 (1)](https://user-images.githubusercontent.com/22215113/120472586-439e6500-c3d0-11eb-9c7c-a73690350ee5.png)
-![TUGAS 9 (2)](https://user-images.githubusercontent.com/22215113/120472591-45682880-c3d0-11eb-88eb-7062426d17b3.png)
-![TUGAS 9 (3)](https://user-images.githubusercontent.com/22215113/120472594-4600bf00-c3d0-11eb-80eb-2d90339dd7ff.png)
-![TUGAS 9 (4)](https://user-images.githubusercontent.com/22215113/120472598-47ca8280-c3d0-11eb-85d8-2fc3f177ccaf.png)
-
-## Hasil
-### Tampilan Home
-![TUGAS 5 (hasil)](https://user-images.githubusercontent.com/22215113/120472622-50bb5400-c3d0-11eb-8920-b0239bb92bad.png)
-
-### Tampilan Tambah Barang
-![TUGAS 6 (hasil)](https://user-images.githubusercontent.com/22215113/120472660-5c0e7f80-c3d0-11eb-9f79-b3b9bc0301e1.png)
-
-### Tampilan Ubah Barang
-![TUGAS 7 (hasil)](https://user-images.githubusercontent.com/22215113/120472705-6cbef580-c3d0-11eb-9ce5-18958503408b.png)
