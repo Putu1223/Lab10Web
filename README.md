@@ -1,4 +1,4 @@
-# Praktikum 9 - PHP Modular - Pemrograman Web
+# Praktikum 9 - PHP Modular
 ```
 I Putu Suwarjaya Atmaja
 311910567
